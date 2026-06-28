@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">AppQuiz</string>
+
+    <string name="apresentacao">Bem-vindo(a) ao teste de Harry Potter \n
+                                Descubra aqui sua casa de Hogwarts \n
+                                Desenvolvido por: Jose Augusto Alves \n</string>
+    
+    <string name="sobre">Nesse teste você descobrira a qual casa \n
+                        de hogwarts você se enquadra melhor!</string>
+
+    <string name="txtNome">Nome: </string>
+    <string name="txtSobre">sobre</string>
+    <string name="txtComecar">Começar</string>
+
+
+
+
+
+
+    <string name="Nprgt1">Pergunta 01/10</string>
+    <string name="prgt1">Qual dessas qualidades você mais valoriza?</string>
+    <string name="prgt1_gri">Coragem</string>
+    <string name="prgt1_son">Ambição</string>
+    <string name="prgt1_cor">Sabedoria</string>
+    <string name="prgt1_luf">Lealdade</string>
+
+    <string name="Nprgt2">Pergunta 02/10</string>
+    <string name="prgt2">Qual bicho você levaria para Hogwarts?</string>
+    <string name="prgt2_cor">Coruja</string>
+    <string name="prgt2_son">Gato</string>
+    <string name="prgt2_lef">Sapo</string>
+    <string name="prgt2_gri">Nenhum, não preciso</string>
+
+    <string name="Nprgt3">Pergunta 03/10</string>
+    <string name="prgt3">Você encontra uma sala secreta em Hogwarts que ninguém conhece. O que você faz?</string>
+    <string name="prgt3_gri">Chama seus amigos para explorarem juntos</string>
+    <string name="prgt3_son">Guarda segredo e pensa como pode usar aquela sala para benefício próprio</string>
+    <string name="prgt3_cor">Investiga sozinho para saber como a sala funciona</string>
+    <string name="prgt3_luf">Investiga sozinho para saber como a sala funciona</string>
+
+    <string name="Nprgt4">Pergunta 04/10</string>
+    <string name="prgt4">Se alguém te desafia na frente de todos, qual sua reação?</string>
+    <string name="prgt4_cor">Para e pensa se vale a pena</string>
+    <string name="prgt4_gri">Você aceita na mesma hora</string>
+    <string name="prgt4_luf">Tenta resolver de forma pacífica</string>
+    <string name="prgt4_son">Pensa numa estratégia para vencer</string>
+
+    <string name="Nprgt5">Pergunta 05/10</string>
+    <string name="prgt5">Qual elemento da natureza combina mais com você?</string>
+    <string name="prgt5_cor">Ar</string>
+    <string name="prgt5_gri">Fogo</string>
+    <string name="prgt5_son">Água</string>
+    <string name="prgt5_lef">Terra</string>
+
+    <string name="Nprgt6">Pergunta 06/10</string>
+    <string name="prgt6">Quem você é no seu grupo de amigos?</string>
+    <string name="prgt6_luf">O que está sempre disposto a ajudar</string>
+    <string name="prgt6_gri">“Líder”</string>
+    <string name="prgt6_cor">Conselheiro(a)</string>
+    <string name="prgt6_son">Protetor(a)</string>
+
+    <string name="Nprgt7">Pergunta 07/10</string>
+    <string name="prgt7">Quando você enfrenta um momento de crise pessoal, qual dessas atitudes melhor descreve sua forma de lidar com a situação?</string>
+    <string name="prgt7_gri">Procuro expressar meus sentimentos e pedir ajuda para amigos ou familiares</string>
+    <string name="prgt7_son">Analiso friamente a situação para traçar um plano de ação, mesmo que isso me afaste emocionalmente</string>
+    <string name="prgt7_cor">Reflito profundamente sozinho, buscando entender a raiz do problema e aprender com ele</string>
+    <string name="prgt7_luf">Tento manter a calma e apoiar os outros ao meu redor, mesmo que isso custe ignorar meus próprios sentimentos</string>
+
+    <string name="Nprgt8">Pergunta 08/10</string>
+    <string name="prgt8">Quando você se sente mais verdadeiramente você mesmo?</string>
+    <string name="prgt8_gri">Quando estou enfrentando um desafio e superando meus limites</string>
+    <string name="prgt8_luf">Quando estou ajudando alguém sem esperar nada em troca</string>
+    <string name="prgt8_cor">Quando estou refletindo sozinho, buscando entender o mundo e a mim mesmo</string>
+    <string name="prgt8_son">Quando estou traçando estratégias para alcançar algo importante para mim</string>
+
+    <string name="Nprgt9">Pergunta 09/10</string>
+    <string name="prgt9">Quando alguém com quem você se importa está passando por dificuldades, como você reage?</string>
+    <string name="prgt9_luf">Ofereço meu apoio incondicional e tento ajudar da forma mais prática possível</string>
+    <string name="prgt9_gri">Encorajo essa pessoa a enfrentar os desafios de frente, com coragem e determinação</string>
+    <string name="prgt9_cor">Tento entender profundamente o problema para oferecer conselhos sábios e bem fundamentados</string>
+    <string name="prgt9_son">Penso estrategicamente em como essa situação pode ser usada para crescer e se fortalecer</string>
+
+    <string name="Nprgt10">Pergunta 10/10</string>
+    <string name="prgt10">Se você tivesse que tomar uma decisão importante que pode afetar muitas pessoas, como você agiria?</string>
+    <string name="prgt10_cor">Analisaria todas as informações e consequências cuidadosamente antes de agir</string>
+    <string name="prgt10_gri">Agiria com coragem e rapidez, mesmo que haja riscos, para proteger o bem maior</string>
+    <string name="prgt10_son">Planejaria estrategicamente, buscando o maior benefício para mim e para os envolvidos</string>
+    <string name="prgt10_luf">Consideraria o impacto nas pessoas ao meu redor, priorizando o cuidado e o apoio mútuo</string>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
